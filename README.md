@@ -1,5 +1,5 @@
 # Quack-VS-Block
- This game was based in a tutorial from the YouTube channel High Level.
+ This game used as based a tutorial from the YouTube channel High Level.
 
 You can download the Android version by clicking [HERE](https://github.com/Jonattaz/Quack-VS-Block/tree/main/Mobile%20build)
 
